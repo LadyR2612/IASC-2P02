@@ -1,6 +1,5 @@
 # IASC 2P02 | Rebecca Disley
 
-**Note to students. DO NOT simply fill in the text here with your own words. Read the assignment sheet carefully and make sure you are doing everything it asks for.**
 
 ## Bio
 
