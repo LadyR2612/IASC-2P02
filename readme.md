@@ -4,11 +4,11 @@
 
 ## Bio
 
-I am a second year student in the IASC program at Brock University. My research area is text analysis, and my research program involves doing x and y things with text analysis tools. This research focus is reflected in my projects in this portoflio, such as project a that looks at b. Similarly, project c looks at d. I'd like to continue with this work in the future by doing x.
+I am a second-year student studying at Brock University. I am currently enrolled in the Interactive arts and science, or IASC, program. My research area in Digital Humanities is media archaeology. My work with my collaborative project and my research presentation are good examples of media archaeology. My collaborative project looks at The Map Of Early Modern London, or MoEML. The MoEML is an old map that has been uploaded to a website, along with relevant articles and archives of that era. The collaborative project focuses on how the MoEML is an example of media archeology. Additionally, my research presentation is focused on media archeology. My research presentation is about the teleprinter, and how it has lead to, and draws parallels with contemporary technology, as well as where the teleprinter would be now if it remained a prevalent technology. The entire presentation revolves around media archaeology. In the future I would like to take the study of media archaeology even further. Seeing what can be learned about new media through old media. 
 
 ![](images/horseface.jpg)
 
-## Featured Project: [Title of project here]
+## Featured Project: [Defending Digital Humanities]
 
 ![](images/featured.jpg)
 
