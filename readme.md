@@ -33,5 +33,5 @@ Here is my 250-word collaboration statement. I approach collaboration in x ways,
 
 ## Academic Blog
 
-[Title goes here](blog)
+[Defending Digital Humanities](blog.md)
 
