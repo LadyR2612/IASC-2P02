@@ -10,7 +10,7 @@ I am a second-year student studying at Brock University. I am currently enrolled
 
 ## Featured Project: [Defending Digital Humanities]
 
-![](images/featured.jpg)
+![](images/DHImage.png)
 
 Here are 250 words introducing this work.
 
