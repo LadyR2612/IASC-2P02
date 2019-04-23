@@ -19,16 +19,16 @@ Read [Defending Digital Humanities](blog.md)
 
 ## Collaborative Project
 
-Here is my 100-word project description.
+During my collaborative project I worked with Fariha Khan, and Katrina Lenselink. The majority of the collaborative work took place on Google Docs, and the final presentation for the project was created in Google Slides. My team researched the Map of Early Modern London, or MoEML. We were able to discover the use of MoEML, as well as how the tool tied into our class discussions. Our team also made some suggestions to improve upon the MoEML. 
 
-Here is my 250-word collaboration statement. I approach collaboration in x ways, which is reflected in y work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/5ffe79e41eabd264a3ebece22f74ebaa9de748c6)). I also approach collaboration in a ways, which is reflected in b work (available [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/2ae52b7e79c421887a29001ff5d54b49d09c7026)). I also contributed x assets to my team, seen below.
+My approach to team project is mainly to divide up the work so that everyone is aware of what their part is. It is also important for the team to meet and talk regularly to ensure that each member is on the right track with their portion of the assignment. I am typically not the team leader, as was the case with this project. The part of the assignment that were mine to work on were to summarize the reading that the project related to. This was important since our group went ahead in the readings, and the class was not familiar with the subject. This portion of my work can be found [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/85eadb813ca69794f570487ef446597b7f9d272b). I also was tasked with coming up with some user interface and user experience improvements for the MoEML. The improvements and problems that I discussed in the team presentation can be seen [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/0a6f479dae98dc80d053ea1a445e93bbc6cede24). Each UX/UI problem or improvement was discussed with the group to see if they agreed with me or had encountered similar issues themselves. I also contributed some images to the presentation to accent my points.  
 
 ![](images/collaboration.jpg)
 
 
 ## Research Presentation
 
-[Title goes here](reveal/index.html)
+[Teleprinter](reveal/index.html)
 
 ## Academic Blog
 
