@@ -1,11 +1,9 @@
-# IASC 2P02 | Rebecca Disley
+# IASC| Rebecca Disley
 
 
 ## Bio
 
-I am a second-year student studying at Brock University. I am currently enrolled in the Interactive arts and science, or IASC, program. My research area in Digital Humanities is media archaeology. My work with my collaborative project and my research presentation are good examples of media archaeology. My collaborative project looks at The Map Of Early Modern London, or MoEML. The MoEML is an old map that has been uploaded to a website, along with relevant articles and archives of that era. The collaborative project focuses on how the MoEML is an example of media archeology. Additionally, my research presentation is focused on media archeology. My research presentation is about the teleprinter, and how it has led to, and draws parallels with contemporary technology, as well as where the teleprinter would be now if it remained a prevalent technology. The entire presentation revolves around media archaeology. In the future I would like to take the study of media archaeology even further. Seeing what can be learned about new media through old media. 
-
-![](images/horseface.jpg)
+I am a student studying at Brock University. I am currently enrolled in the Interactive arts and science, or IASC, program. My research area in Digital Humanities is media archaeology. My work with my collaborative project and my research presentation are good examples of media archaeology. My collaborative project looks at The Map Of Early Modern London, or MoEML. The MoEML is an old map that has been uploaded to a website, along with relevant articles and archives of that era. The collaborative project focuses on how the MoEML is an example of media archeology. Additionally, my research presentation is focused on media archeology. My research presentation is about the teleprinter, and how it has led to, and draws parallels with contemporary technology, as well as where the teleprinter would be now if it remained a prevalent technology. The entire presentation revolves around media archaeology. In the future I would like to take the study of media archaeology even further. Seeing what can be learned about new media through old media. 
 
 ## Featured Project: [Defending Digital Humanities]
 
@@ -25,10 +23,6 @@ My approach to team project is mainly to divide up the work so that everyone is 
 
 ![](images/moeml.jpg)
 
-
-## Research Presentation
-
-[Teleprinter](reveal/index.html)
 
 ## Academic Blog
 
